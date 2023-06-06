@@ -4,7 +4,7 @@
 
 I'm using a `Nvidia GPU` and I'm a `Visual Studio` user.
 
-Lib [download](https://www.tensorflow.org/install/lang_c#download_and_extract)<br>Cuda [download](https://developer.nvidia.com/cuda-toolkit-archive)<br>cuDDN [download](https://developer.nvidia.com/rdp/cudnn-download) | [download older](https://developer.nvidia.com/rdp/cudnn-archive)
+Lib [download](https://www.tensorflow.org/install/lang_c#download_and_extract) | [2.10](https://storage.googleapis.com/tensorflow/libtensorflow/libtensorflow-gpu-windows-x86_64-2.10.0.zip)<br>Cuda [download](https://developer.nvidia.com/cuda-toolkit-archive) | [11.8](https://developer.nvidia.com/cuda-11-8-0-download-archive?target_os=Windows&target_arch=x86_64&target_version=10&target_type=exe_local)<br>cuDDN [download](https://developer.nvidia.com/rdp/cudnn-download) | [download older](https://developer.nvidia.com/rdp/cudnn-archive)
 
 Setup `VC++ Directories`(`Include Directories` and `Library Directories`) then `Linker Input`(`tensorflow.lib`)
 
